@@ -10,7 +10,7 @@ title: Contact Long Haul
     
     If you'd like to donate to the project, please visit xxx
     
-
+<div>
   <form action="http://formspree.io/dadsdayout@outlook.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
