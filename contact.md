@@ -10,10 +10,8 @@ title: Contact Long Haul
     
     If you'd like to donate to the project, please visit xxx
     
-    The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:dadsdayout@outlook.com">email me</a></p>
-  </div>
-  <form action="http://formspree.io/your@mail.com">
+
+  <form action="http://formspree.io/dadsdayout@outlook.com">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
