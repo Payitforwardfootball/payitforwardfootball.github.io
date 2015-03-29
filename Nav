@@ -16,3 +16,5 @@ navigation:
    url: /index.html
  - title: Contact
    url: /contact
+
+Replacement for _config.yml
