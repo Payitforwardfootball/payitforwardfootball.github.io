@@ -1,0 +1,18 @@
+name: Dads day out
+description: Funds for low or no income dads to take their children on days out.
+
+url: http://dadsdayout.github.io
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+pygments: true
+paginate: 5
+
+navigation:
+ - title: About
+   url: /about
+ - title: Blog
+   url: /index.html
+ - title: Contact
+   url: /contact
