@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About Dads day out.
 ---
 <p class="intro"><span class="dropcap">D</span>ad's day out is a simple project designed to give low or no income single fathers, access to a small amount of money to take their children on a day out.</p>
 
