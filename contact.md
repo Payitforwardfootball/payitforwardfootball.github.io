@@ -11,9 +11,14 @@ title: Contact Long Haul
     If you'd like to donate to the project, please visit xxx
     
 
-<form action="//formspree.io/dadsdayout@outlook.com">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>
+  <form action="http://formspree.io/dadsdayout@outlook.com">
+    <method: "Pose"
+    <label for="name">Name</label>    
+    <input type="text" id="name" name="name" class="full-width"><br>
+    <label for="email">Email Address</label>
+    <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <label for="message">Message</label>
+    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+    <input type="submit" value="Send" class="button">
+  </form>
 </div>
