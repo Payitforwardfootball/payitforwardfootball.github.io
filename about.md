@@ -8,7 +8,6 @@ The project has been set up in memory of John Edwin Mills. John experienced the 
 
 John Edwin Mills passed away on the 31st of March 2010 and this project is operated by his son in his memory.
 
-</div>
   <form action="http://formspree.io/dadsdayout@outlook.com" method="POST">
    <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
@@ -18,4 +17,3 @@ John Edwin Mills passed away on the 31st of March 2010 and this project is opera
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
 </form>
-</div>
