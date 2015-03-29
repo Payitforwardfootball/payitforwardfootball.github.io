@@ -2,24 +2,6 @@
 layout: default
 title: About Long Haul
 ---
+<p class="intro"><span class="dropcap">D</span>ad's day out is a simple project designed to give low or no income single fathers, access to a small amount of money to take their children on a day out.</p>
 
-<div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ site.url }}/assets/img/touring.jpg" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://http://formspree.io//">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
+The project is in memory of my father, Mr John Edwin Mills, who passed away in 2010 and experienced the difficulties associated with being a single, low and at times, no income father. Like many single fathers, he didn’t want to rely on government support and worked incredibly hard for a number of years to keep a roof over our heads and food on the table.   Therefore, we would like to help, even in a small way, to facilitate others who find themselves in a similar place to spend a little time together. Life is short and it’s important to create some happy memories beyond simply living
