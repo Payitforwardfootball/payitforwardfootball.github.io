@@ -1,7 +1,7 @@
-name: Long Haul
+name: Dadsdayout
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://dadsdayout.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
