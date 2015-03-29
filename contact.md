@@ -12,7 +12,7 @@ title: Contact Long Haul
     
 
   <form action="http://formspree.io/dadsdayout@outlook.com">
-    <method: "Pose"
+    method="POST"
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
