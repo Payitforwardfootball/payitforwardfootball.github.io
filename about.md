@@ -2,7 +2,6 @@
 layout: default
 title: About Dads day out.
 ---
-<img src="{{ site.url }}/assets/img/touring.jpg" alt="">
 <p class="intro"><span class="dropcap">D</span>ad’s day out is a simple project designed to give low or no income single fathers, access to a small amount of money to take their children on a day out.</p>
 
 The project’s inspiration was John Edwin Mills, who like those we aim to support, experienced the difficulties associated with being a single, low and at times no income father. Like many single fathers in a similar situation, John didn’t want to rely on government support alone. As such he worked incredibly hard for a number of years to meet the basic needs of his son. However, this meant that he didn't have a lot of time or money to spare on luxuries such as days out. Therefore, Dad’s day out would like to help to facilitate others who find themselves in a similar situation to spend a little time together. Life is short and it’s important to create some happy memories beyond simply living.
