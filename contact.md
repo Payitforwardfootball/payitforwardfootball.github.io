@@ -9,9 +9,9 @@ title: Contact Long Haul
     <p>Please nominate a low or no income, single dad who you feel deserves a free day out with his child or children. If you know what the activity they would like to do is, please also list it in the message section (max. £50). Please note that the message should be no more than 50 words and that as a new project, we are only able to fund a very small number of days out.
     
     If you'd like to donate to the project, please visit xxx
-    
-<div>
-  <form action="http://formspree.io/dadsdayout@outlook.com" method="POST">
+
+  </div>
+  <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
