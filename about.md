@@ -10,8 +10,6 @@ Please note that only days out with a maximum value of £50 will be considered a
 
 If you would like to nominate a single, low (i.e., < £10,000 per annum) or no income dad to receive funds for a day out with his children please get in touch. If you also know the family’s desired activity, please add the details to the message box below. Please also note that only the activity (e.g., sports tickets, theme park entry, cinema tickets etc.) will be purchased and that any leftover funds will be passed to the next family.
 
-<center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="258" height="338" title="Click Here to donate!" type="application/x-shockwave-flash"><param name="movie" value="//funds.gofundme.com/Widgetflex.swf" /><param name="quality" value="high" /><param name="flashvars" value="page=dadsdayout&template=0" /><param name="wmode" value="transparent" /><embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page=dadsdayout&template=0" type="application/x-shockwave-flash" wmode="transparent" width="258" height="338"></embed></object></center>
-
 <center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="dadsdayout@outlook.com">
