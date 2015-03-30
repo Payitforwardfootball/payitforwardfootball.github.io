@@ -8,6 +8,9 @@ Pay it forward football (or PIFF) is, as you've probably guessed, a pay it forwa
 
 Share the initiative on social media and encourage as many fans as possible to take part. Remember, you don't pay for your love of the game back, you pay it forward #PIFF
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-521fa8d2764bdb4e" async="async"></script>
+
+
 ad’s day out is a simple project designed to give low or no income fathers access to a small amount of money to choose a day out with their children.
 
 
