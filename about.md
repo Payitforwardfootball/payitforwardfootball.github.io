@@ -12,7 +12,7 @@ If you would like to nominate a single, low (i.e., < £10,000 per annum) or no i
 
 <center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="258" height="338" title="Click Here to donate!" type="application/x-shockwave-flash"><param name="movie" value="//funds.gofundme.com/Widgetflex.swf" /><param name="quality" value="high" /><param name="flashvars" value="page=dadsdayout&template=0" /><param name="wmode" value="transparent" /><embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page=dadsdayout&template=0" type="application/x-shockwave-flash" wmode="transparent" width="258" height="338"></embed></object></center>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="dadsdayout@outlook.com">
 <input type="hidden" name="lc" value="US">
@@ -22,7 +22,7 @@ If you would like to nominate a single, low (i.e., < £10,000 per annum) or no i
 <input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+</form></center>
 
 
   <form action="http://formspree.io/dadsdayout@outlook.com" method="POST">
