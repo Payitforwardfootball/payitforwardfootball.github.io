@@ -6,6 +6,8 @@ title: About Dads day out.
 
 The project’s inspiration was John Edwin Mills who died in 2010. John loved days out and we would like to help those experiencing financial difficulties to spend some quality time with their children. Life is short and it’s important to create some happy memories beyond simply living.
 
+<img src="{{ site.url }}/assets/img/dad.jpg" alt="">
+
 Please note that only days out with a maximum value of £50 will be considered and that due to the size of the project, only a very small number of dads will be supported. We hope to be able to support five families in the first instance and will be raising money to pay for the days out at Go Fund Me. Once funds have been raised, we will work with Dads House to distribute the money directly to those who will benefit the most. Should the project be a success, we will aim to help more and continue to operate on a month-by-month basis. 
 
 If you would like to nominate a low (i.e., < £10,000 per annum) or no income dad to receive funds for a day out with his children please get in touch. If you also know the family’s desired activity, please add the details to the message box below. Please also note that only the activity (e.g., sports tickets, theme park entry, cinema tickets etc.) will be purchased and that any leftover funds will be passed to the next family.
