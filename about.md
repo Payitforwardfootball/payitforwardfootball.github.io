@@ -4,7 +4,7 @@ title: About Dads day out.
 ---
 <p class="intro"><span class="dropcap">D</span>ad’s day out is a simple project designed to give low or no income fathers access to a small amount of money to choose a day out with their children.</p>
 
-The project’s inspiration was John Edwin Mills who died in 2010. John loved days out and we would like to help those experiencing financial difficulties to spend some quality time with their children. Life is short and it’s important to create some happy memories beyond simply living.
+The project’s inspiration was John Edwin Mills who died in 2010. John loved days out and we would like to help those experiencing financial difficulties to spend some quality time with their children. Life is short and it’s important to create some happy memories while you can.
 
 <img src="{{ site.url }}/assets/img/dad.jpg" alt="">
 
