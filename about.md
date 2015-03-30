@@ -2,7 +2,12 @@
 layout: default
 title: About Dads day out.
 ---
-<p class="intro"><span class="dropcap">D</span>ad’s day out is a simple project designed to give low or no income fathers access to a small amount of money to choose a day out with their children.</p>
+<p class="intro"><span class="dropcap">I</span>n memory of my father, John Edwin Mills, I've decided to set up a project encouraging random acts of football based kindness. Pay it forward football (or PIFF) is, as you've probably guessed, a pay it forward initiative focused on football. Simply put, we're encouring football fans to help those who love the game, but are perhaps experiencing tougher times. The act you do is up to you, but if you're struggling for ideas, why not phone a local junior team and pay an outstanding player debt (cheques are best if they don't accept online payments). Not only will your support help the child to keep playing, but it will also relieve a little pressure on a struggling family and help a grass roots club. 
+
+Share the initiative on social media and encourage as many fans as possible to take part. Remember, you don't pay for your love of the game back, you pay it forward #PIFF
+
+ad’s day out is a simple project designed to give low or no income fathers access to a small amount of money to choose a day out with their children.</p>
+
 
 The project’s inspiration was John Edwin Mills who died in 2010. John loved days out and we would like to help those experiencing financial difficulties to spend some quality time with their children. Life is short and it’s important to create some happy memories while you can.
 
