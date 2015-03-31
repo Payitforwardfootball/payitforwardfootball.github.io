@@ -1,26 +1,50 @@
----
-layout: default
-title: Long Haul - A Minimal, Long Form Jekyll Theme
----
+<!DOCTYPE html>
+<html>
 
-      <div id="home">
-        <h1 class="pageTitle">Recent Posts</h1>
-        <ul class="posts noList">
-          {% for post in paginator.posts %}
-            <li>
-            	<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-            	<h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
-            	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-            </li>
-          {% endfor %}
-        </ul>
-        <!-- Pagination links -->
-        <div class="pagination">
-          {% if paginator.previous_page %}
-            <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous button__outline">Newer Posts</a>  
-          {% endif %} 
-           {% if paginator.next_page %}
--            <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next button__outline">Older Posts</a>
--          {% endif %}
-        </div>
-      </div>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Payitforwardfootball.GitHub.io : ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Payitforwardfootball.GitHub.io</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/Payitforwardfootball">View on GitHub</a>
+
+          <h1 id="project_title">Payitforwardfootball.GitHub.io</h1>
+          <h2 id="project_tagline"></h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p>In memory of my father, John Edwin Mills, I've decided to set up a project encouraging random acts of football based kindness.</p>
+
+<p>Pay it forward football (or PIFF) is, as you've probably guessed, a pay it forward initiative focused on football (i.e., American, Association, Australian Rules, Gaelic, Rugby League and Union). Simply put, we're encouring football fans to help those who love the game, but are perhaps experiencing tougher times. The act you do is up to you, but if you're struggling for ideas, why not phone a local junior team and pay an outstanding player debt (cheques are best if they don't accept online payments). Should you not wish to speak to the club, simply send a cheque with whatever you can afford and explain that you'd like the funds to pay off or at least go towards a player's debt. Not only will your support help the child to keep playing, but it will also relieve a little pressure on a struggling family and help a local grass roots club.</p>
+
+<p>Share the initiative on social media (#PIFF) and encourage as many fans as possible to take part. Please also get in touch and let us know that you've donated. We won't embarress you or post the details anywhere (including details of those you've helped), but it would be nice to keep track of some of the good that is done. Of course if you'd like us to share your good deed and like us, give in the name of someone else, we'll be happy to post a notice on the Facebook page. Finally, while the initiative is targeting football fans, please don't let that stop you from paying it forward to any club or activity of your choice. If you're into martial arts, dancing, or anything else, there are plenty of children and families that could use a random act of kindness so get to it.</p>
+
+<p>Remember, you don't pay for your love of the game back, you pay it forward #PIFF</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
